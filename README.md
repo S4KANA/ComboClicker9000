@@ -1,4 +1,4 @@
-Just a simple program meant clicking through (parts of) the Devoted Druid or Heliod/Spike Feeder combos on MTGO
+Just a simple program for clicking through (parts of) the Devoted Druid or Heliod/Spike Feeder combos on MTGO
 
 For Devoted Druid/Vizier:
 1) Run ComboClicker9000
