@@ -14,7 +14,3 @@ For Heliod/Spike Feeder:
 3) Click the Spike Feeder
 4) Put your cursor on the "You gain 2 life" option and press space bar
 5) The program clicks through the combo indefinitely. Press 'x' to make the program stop clicking
-
-
-
-`
