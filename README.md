@@ -1,6 +1,7 @@
 Just a simple program for clicking through (parts of) the Devoted Druid or Heliod/Spike Feeder combos on MTGO
 
 For Devoted Druid/Vizier:
+(Assumes "Auto-Mana"  hotkey is the default 'w')
 1) Run ComboClicker9000
 2) Put your cursor on the Devoted Druid and press space bar
 3) Click the Druid
