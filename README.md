@@ -1,6 +1,6 @@
 
 
-Just a simple program for clicking through (parts of) the Devoted Druid or Heliod/Spike Feeder combos on MTGO
+Just a simple program for clicking through the Devoted Druid or Heliod/Spike Feeder combos on MTGO
 
 For Devoted Druid/Vizier: (Assumes "Auto-Mana" hotkey is the default 'w')
 
@@ -11,8 +11,11 @@ For Devoted Druid/Vizier: (Assumes "Auto-Mana" hotkey is the default 'w')
 For Heliod/Spike Feeder:
 
 1) Do the combo manually once and set up "Save targets" and auto yield to Heliod's triggered ability
-2) Put your cursor on the Spike Feeder and press space bar
+2) Put your cursor on the Spike Feeder and press 'Numpad 1'
 3) Click the Spike Feeder
-4) Put your cursor on the "You gain 2 life" option and press space bar
-5) The program clicks through the combo indefinitely. Press 'Numpad 0' to make the program stop clicking
+4) Put your cursor on the "You gain 2 life" option and press 'Numpad 1'
+5) The program clicks through the combo indefinitely. Press 'Numpad 0' to make the program stop clicking (may need to press it multiple times)
+
+
+Can also be used to pay for and shoot with Ballista.
 
